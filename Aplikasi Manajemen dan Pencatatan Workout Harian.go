@@ -1,3 +1,6 @@
+// Biar ada rubah di reponya
+// kalo dipush
+
 package main
 
 import (
